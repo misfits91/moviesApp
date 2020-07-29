@@ -1,10 +1,10 @@
 # Movies App
 
-### DescripciÃ³n
-Aplicación de prueba de iOS. Muestra un listado de peliculas de la API la API de [The Movie DB](https://www.themoviedb.org/) con sus detalles.
+### Descripción
+Aplicación de prueba de iOS. Muestra un listado de peliculas de la API de [The Movie DB](https://www.themoviedb.org/) con sus detalles.
 
 ### Instrucciones
-- Clonar repositorio
+- Clonar repositorio `https://github.com/misfits91/moviesApp.git`
 - `npm install` ó `yarn`
 - `cd ios && pod install`
 - `cd .. && npm run ios`
